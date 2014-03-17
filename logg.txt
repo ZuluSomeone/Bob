@@ -1,0 +1,5 @@
+minfil=open('Desktop/prov.txt','w')
+minfil.write ('Banana Banana Banana Terracotta Pie!')
+minfil.close()
+
+
